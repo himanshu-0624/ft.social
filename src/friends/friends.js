@@ -11,7 +11,7 @@ const Friends = () => {
             <Menu log="a"/>
           <div className="container">
               <div className="row">
-                  <div className="offset-2 col-8 ">
+                  <div className="offset-md-2 col-8 ">
                   <form className="form-inline " >
                  
                     <input type="text" className="form-control mt-5 mb-sm-1  mb-3 mr-sm-2" style={{ width: "500px" }} id="name" placeholder="Himanshu"/>
